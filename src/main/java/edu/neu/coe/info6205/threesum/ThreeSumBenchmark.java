@@ -20,6 +20,8 @@ public class ThreeSumBenchmark {
         benchmarkThreeSum("ThreeSumQuadratic", (xs) -> new ThreeSumQuadratic(xs).getTriples(), n, timeLoggersQuadratic);
         benchmarkThreeSum("ThreeSumQuadrithmic", (xs) -> new ThreeSumQuadrithmic(xs).getTriples(), n, timeLoggersQuadrithmic);
         benchmarkThreeSum("ThreeSumCubic", (xs) -> new ThreeSumCubic(xs).getTriples(), n, timeLoggersCubic);
+        benchmarkThreeSum("ThreeSumQuadrithmicWithCalipers", (xs) -> new ThreeSumQuadraticWithCalipers(xs), n, timeLoggersQuadraticWithCalipers);
+
     }
 
     public static void main(String[] args) {
@@ -33,9 +35,15 @@ public class ThreeSumBenchmark {
     }
 
     private void benchmarkThreeSum(final String description, final Consumer<int[]> function, int n, final TimeLogger[] timeLoggers) {
-        if (description.equals("ThreeSumCubic") && n > 4000) return;
         // FIXME
-        // END 
+        // END
+        if (description.equals("ThreeSumCubic") && n >=250){
+            Benchmark_Timer t1 = new Benchmark_Timer(description,function);
+            double timQ1 = t1.runFromSupplier(supplier,runs);
+            timeLoggers[0].log(timQ1,n);
+            timeLoggers[1].log(timQ1,n);
+            System.out.println("total time taken for ThreeSumCubic "+ timQ1);
+        }
     }
 
     private final static TimeLogger[] timeLoggersCubic = {
@@ -47,6 +55,11 @@ public class ThreeSumBenchmark {
             new TimeLogger("Normalized time per run (n^2 log n): ", (time, n) -> time / n / n / Utilities.lg(n) * 1e6)
     };
     private final static TimeLogger[] timeLoggersQuadratic = {
+            new TimeLogger("Raw time per run (mSec): ", (time, n) -> time),
+            new TimeLogger("Normalized time per run (n^2): ", (time, n) -> time / n / n * 1e6)
+    };
+
+    private final static TimeLogger[] timeLoggersQuadraticWithCalipers = {
             new TimeLogger("Raw time per run (mSec): ", (time, n) -> time),
             new TimeLogger("Normalized time per run (n^2): ", (time, n) -> time / n / n * 1e6)
     };
