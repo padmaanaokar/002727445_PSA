@@ -1,0 +1,933 @@
+2023-01-28 21:17:19 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 100 runs
+2023-01-28 21:17:23 INFO  TimeLogger - Raw time per run (mSec):  33.00
+2023-01-28 21:17:23 INFO  TimeLogger - Normalized time per run (n^2):  527.95
+2023-01-28 21:17:23 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 50 runs
+2023-01-28 21:17:32 INFO  TimeLogger - Raw time per run (mSec):  160.64
+2023-01-28 21:17:32 INFO  TimeLogger - Normalized time per run (n^2):  642.56
+2023-01-28 21:17:32 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 50 runs
+2023-01-28 21:17:33 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 20 runs
+2023-01-28 21:18:02 INFO  TimeLogger - Raw time per run (mSec):  1358.48
+2023-01-28 21:18:02 INFO  TimeLogger - Normalized time per run (n^2):  1358.48
+2023-01-28 21:18:02 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 20 runs
+2023-01-28 21:18:03 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2023-01-28 21:20:31 INFO  TimeLogger - Raw time per run (mSec):  12756.15
+2023-01-28 21:20:31 INFO  TimeLogger - Normalized time per run (n^2):  3189.04
+2023-01-28 21:20:31 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2023-01-28 21:20:33 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 5 runs
+2023-01-28 21:30:58 INFO  TimeLogger - Raw time per run (mSec):  90808.20
+2023-01-28 21:30:58 INFO  TimeLogger - Normalized time per run (n^2):  5675.51
+2023-01-28 21:30:58 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 5 runs
+2023-01-28 21:31:04 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 3 runs
+2023-01-28 21:34:02 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 100 runs
+2023-01-28 21:34:06 INFO  TimeLogger - Raw time per run (mSec):  29.19
+2023-01-28 21:34:06 INFO  TimeLogger - Normalized time per run (n^2):  467.04
+2023-01-28 21:34:06 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 50 runs
+2023-01-28 21:34:15 INFO  TimeLogger - Raw time per run (mSec):  177.39
+2023-01-28 21:34:15 INFO  TimeLogger - Normalized time per run (n^2):  709.57
+2023-01-28 21:34:15 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 20 runs
+2023-01-28 21:34:46 INFO  TimeLogger - Raw time per run (mSec):  1427.07
+2023-01-28 21:34:46 INFO  TimeLogger - Normalized time per run (n^2):  1427.07
+2023-01-28 21:34:46 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 10 runs
+2023-01-28 21:36:46 INFO  TimeLogger - Raw time per run (mSec):  9968.30
+2023-01-28 21:36:46 INFO  TimeLogger - Normalized time per run (n^2):  2492.08
+2023-01-28 21:36:46 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 5 runs
+2023-01-28 21:46:16 INFO  TimeLogger - Raw time per run (mSec):  81678.02
+2023-01-28 21:46:16 INFO  TimeLogger - Normalized time per run (n^2):  5104.88
+2023-01-28 21:46:16 INFO  Benchmark_Timer - Begin run: ThreeSumQuadratic with 3 runs
+2023-01-28 22:10:37 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 100 runs
+2023-01-28 22:10:37 INFO  TimeLogger - Raw time per run (mSec):  2.34
+2023-01-28 22:10:37 INFO  TimeLogger - Normalized time per run (n^2 log n):  4.71
+2023-01-28 22:10:37 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 50 runs
+2023-01-28 22:10:38 INFO  TimeLogger - Raw time per run (mSec):  6.69
+2023-01-28 22:10:38 INFO  TimeLogger - Normalized time per run (n^2 log n):  2.99
+2023-01-28 22:10:38 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 20 runs
+2023-01-28 22:10:39 INFO  TimeLogger - Raw time per run (mSec):  32.70
+2023-01-28 22:10:39 INFO  TimeLogger - Normalized time per run (n^2 log n):  3.28
+2023-01-28 22:10:39 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 10 runs
+2023-01-28 22:10:40 INFO  TimeLogger - Raw time per run (mSec):  144.13
+2023-01-28 22:10:40 INFO  TimeLogger - Normalized time per run (n^2 log n):  3.29
+2023-01-28 22:10:40 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 5 runs
+2023-01-28 22:10:45 INFO  TimeLogger - Raw time per run (mSec):  576.59
+2023-01-28 22:10:45 INFO  TimeLogger - Normalized time per run (n^2 log n):  3.01
+2023-01-28 22:10:45 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 3 runs
+2023-01-28 22:10:58 INFO  TimeLogger - Raw time per run (mSec):  2792.56
+2023-01-28 22:10:58 INFO  TimeLogger - Normalized time per run (n^2 log n):  3.37
+2023-01-28 22:10:58 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmic with 2 runs
+2023-01-28 22:11:30 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 100 runs
+2023-01-28 22:11:30 INFO  TimeLogger - Raw time per run (mSec):  .07
+2023-01-28 22:11:30 INFO  TimeLogger - Normalized time per run (n^2):  1.15
+2023-01-28 22:11:30 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 50 runs
+2023-01-28 22:11:30 INFO  TimeLogger - Raw time per run (mSec):  .08
+2023-01-28 22:11:30 INFO  TimeLogger - Normalized time per run (n^2):  .31
+2023-01-28 22:11:30 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 20 runs
+2023-01-28 22:11:30 INFO  TimeLogger - Raw time per run (mSec):  .33
+2023-01-28 22:11:30 INFO  TimeLogger - Normalized time per run (n^2):  .33
+2023-01-28 22:11:30 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 10 runs
+2023-01-28 22:11:30 INFO  TimeLogger - Raw time per run (mSec):  1.19
+2023-01-28 22:11:30 INFO  TimeLogger - Normalized time per run (n^2):  .30
+2023-01-28 22:11:30 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 5 runs
+2023-01-28 22:11:30 INFO  TimeLogger - Raw time per run (mSec):  4.58
+2023-01-28 22:11:30 INFO  TimeLogger - Normalized time per run (n^2):  .29
+2023-01-28 22:11:30 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 3 runs
+2023-01-28 22:11:30 INFO  TimeLogger - Raw time per run (mSec):  21.58
+2023-01-28 22:11:30 INFO  TimeLogger - Normalized time per run (n^2):  .34
+2023-01-28 22:11:30 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 2 runs
+2023-01-28 22:11:30 INFO  TimeLogger - Raw time per run (mSec):  31.45
+2023-01-28 22:11:30 INFO  TimeLogger - Normalized time per run (n^2):  .12
+2023-01-28 22:13:34 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 100 runs
+2023-01-28 22:13:34 INFO  TimeLogger - Raw time per run (mSec):  .05
+2023-01-28 22:13:34 INFO  TimeLogger - Normalized time per run (n^2):  .72
+2023-01-28 22:13:34 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 50 runs
+2023-01-28 22:13:34 INFO  TimeLogger - Raw time per run (mSec):  .04
+2023-01-28 22:13:34 INFO  TimeLogger - Normalized time per run (n^2):  .16
+2023-01-28 22:13:34 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 20 runs
+2023-01-28 22:13:34 INFO  TimeLogger - Raw time per run (mSec):  .23
+2023-01-28 22:13:34 INFO  TimeLogger - Normalized time per run (n^2):  .23
+2023-01-28 22:13:34 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 10 runs
+2023-01-28 22:13:34 INFO  TimeLogger - Raw time per run (mSec):  .99
+2023-01-28 22:13:34 INFO  TimeLogger - Normalized time per run (n^2):  .25
+2023-01-28 22:13:34 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 5 runs
+2023-01-28 22:13:34 INFO  TimeLogger - Raw time per run (mSec):  3.20
+2023-01-28 22:13:34 INFO  TimeLogger - Normalized time per run (n^2):  .20
+2023-01-28 22:13:34 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 3 runs
+2023-01-28 22:13:34 INFO  TimeLogger - Raw time per run (mSec):  17.66
+2023-01-28 22:13:34 INFO  TimeLogger - Normalized time per run (n^2):  .28
+2023-01-28 22:13:34 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 2 runs
+2023-01-28 22:13:34 INFO  TimeLogger - Raw time per run (mSec):  22.83
+2023-01-28 22:13:34 INFO  TimeLogger - Normalized time per run (n^2):  .09
+2023-01-28 22:13:44 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 100 runs
+2023-01-28 22:13:44 INFO  TimeLogger - Raw time per run (mSec):  .04
+2023-01-28 22:13:44 INFO  TimeLogger - Normalized time per run (n^2):  .60
+2023-01-28 22:13:44 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 50 runs
+2023-01-28 22:13:44 INFO  TimeLogger - Raw time per run (mSec):  .04
+2023-01-28 22:13:44 INFO  TimeLogger - Normalized time per run (n^2):  .15
+2023-01-28 22:13:44 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 20 runs
+2023-01-28 22:13:44 INFO  TimeLogger - Raw time per run (mSec):  .20
+2023-01-28 22:13:44 INFO  TimeLogger - Normalized time per run (n^2):  .20
+2023-01-28 22:13:44 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 10 runs
+2023-01-28 22:13:44 INFO  TimeLogger - Raw time per run (mSec):  .74
+2023-01-28 22:13:44 INFO  TimeLogger - Normalized time per run (n^2):  .19
+2023-01-28 22:13:44 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 5 runs
+2023-01-28 22:13:44 INFO  TimeLogger - Raw time per run (mSec):  2.97
+2023-01-28 22:13:44 INFO  TimeLogger - Normalized time per run (n^2):  .19
+2023-01-28 22:13:44 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 3 runs
+2023-01-28 22:13:44 INFO  TimeLogger - Raw time per run (mSec):  14.72
+2023-01-28 22:13:44 INFO  TimeLogger - Normalized time per run (n^2):  .23
+2023-01-28 22:13:44 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 2 runs
+2023-01-28 22:13:44 INFO  TimeLogger - Raw time per run (mSec):  44.22
+2023-01-28 22:13:44 INFO  TimeLogger - Normalized time per run (n^2):  .17
+2023-01-28 22:13:51 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 100 runs
+2023-01-28 22:13:51 INFO  TimeLogger - Raw time per run (mSec):  .08
+2023-01-28 22:13:51 INFO  TimeLogger - Normalized time per run (n^2):  1.20
+2023-01-28 22:13:51 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 50 runs
+2023-01-28 22:13:51 INFO  TimeLogger - Raw time per run (mSec):  .07
+2023-01-28 22:13:51 INFO  TimeLogger - Normalized time per run (n^2):  .29
+2023-01-28 22:13:51 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 20 runs
+2023-01-28 22:13:51 INFO  TimeLogger - Raw time per run (mSec):  .23
+2023-01-28 22:13:51 INFO  TimeLogger - Normalized time per run (n^2):  .23
+2023-01-28 22:13:51 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 10 runs
+2023-01-28 22:13:51 INFO  TimeLogger - Raw time per run (mSec):  1.20
+2023-01-28 22:13:51 INFO  TimeLogger - Normalized time per run (n^2):  .30
+2023-01-28 22:13:51 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 5 runs
+2023-01-28 22:13:51 INFO  TimeLogger - Raw time per run (mSec):  3.82
+2023-01-28 22:13:51 INFO  TimeLogger - Normalized time per run (n^2):  .24
+2023-01-28 22:13:51 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 3 runs
+2023-01-28 22:13:51 INFO  TimeLogger - Raw time per run (mSec):  19.41
+2023-01-28 22:13:51 INFO  TimeLogger - Normalized time per run (n^2):  .30
+2023-01-28 22:13:51 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 2 runs
+2023-01-28 22:13:51 INFO  TimeLogger - Raw time per run (mSec):  30.40
+2023-01-28 22:13:51 INFO  TimeLogger - Normalized time per run (n^2):  .12
+2023-01-28 22:13:58 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 100 runs
+2023-01-28 22:13:58 INFO  TimeLogger - Raw time per run (mSec):  .07
+2023-01-28 22:13:58 INFO  TimeLogger - Normalized time per run (n^2):  1.08
+2023-01-28 22:13:58 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 50 runs
+2023-01-28 22:13:58 INFO  TimeLogger - Raw time per run (mSec):  .07
+2023-01-28 22:13:58 INFO  TimeLogger - Normalized time per run (n^2):  .27
+2023-01-28 22:13:58 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 20 runs
+2023-01-28 22:13:58 INFO  TimeLogger - Raw time per run (mSec):  .30
+2023-01-28 22:13:58 INFO  TimeLogger - Normalized time per run (n^2):  .30
+2023-01-28 22:13:58 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 10 runs
+2023-01-28 22:13:58 INFO  TimeLogger - Raw time per run (mSec):  1.20
+2023-01-28 22:13:58 INFO  TimeLogger - Normalized time per run (n^2):  .30
+2023-01-28 22:13:58 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 5 runs
+2023-01-28 22:13:58 INFO  TimeLogger - Raw time per run (mSec):  4.89
+2023-01-28 22:13:58 INFO  TimeLogger - Normalized time per run (n^2):  .31
+2023-01-28 22:13:58 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 3 runs
+2023-01-28 22:13:58 INFO  TimeLogger - Raw time per run (mSec):  21.63
+2023-01-28 22:13:58 INFO  TimeLogger - Normalized time per run (n^2):  .34
+2023-01-28 22:13:58 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 2 runs
+2023-01-28 22:13:58 INFO  TimeLogger - Raw time per run (mSec):  68.07
+2023-01-28 22:13:58 INFO  TimeLogger - Normalized time per run (n^2):  .27
+2023-01-28 22:14:06 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 100 runs
+2023-01-28 22:14:06 INFO  TimeLogger - Raw time per run (mSec):  .05
+2023-01-28 22:14:06 INFO  TimeLogger - Normalized time per run (n^2):  .81
+2023-01-28 22:14:06 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 50 runs
+2023-01-28 22:14:06 INFO  TimeLogger - Raw time per run (mSec):  .05
+2023-01-28 22:14:06 INFO  TimeLogger - Normalized time per run (n^2):  .19
+2023-01-28 22:14:06 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 20 runs
+2023-01-28 22:14:06 INFO  TimeLogger - Raw time per run (mSec):  .23
+2023-01-28 22:14:06 INFO  TimeLogger - Normalized time per run (n^2):  .23
+2023-01-28 22:14:06 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 10 runs
+2023-01-28 22:14:06 INFO  TimeLogger - Raw time per run (mSec):  .93
+2023-01-28 22:14:06 INFO  TimeLogger - Normalized time per run (n^2):  .23
+2023-01-28 22:14:06 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 5 runs
+2023-01-28 22:14:06 INFO  TimeLogger - Raw time per run (mSec):  3.70
+2023-01-28 22:14:06 INFO  TimeLogger - Normalized time per run (n^2):  .23
+2023-01-28 22:14:06 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 3 runs
+2023-01-28 22:14:06 INFO  TimeLogger - Raw time per run (mSec):  18.32
+2023-01-28 22:14:06 INFO  TimeLogger - Normalized time per run (n^2):  .29
+2023-01-28 22:14:06 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 2 runs
+2023-01-28 22:14:06 INFO  TimeLogger - Raw time per run (mSec):  32.87
+2023-01-28 22:14:06 INFO  TimeLogger - Normalized time per run (n^2):  .13
+2023-01-28 22:16:04 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 100 runs
+2023-01-28 22:16:06 INFO  TimeLogger - Raw time per run (mSec):  16.68
+2023-01-28 22:16:06 INFO  TimeLogger - Normalized time per run (n^3):  1.07
+2023-01-28 22:16:06 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 50 runs
+2023-01-28 22:16:11 INFO  TimeLogger - Raw time per run (mSec):  79.92
+2023-01-28 22:16:11 INFO  TimeLogger - Normalized time per run (n^3):  .64
+2023-01-28 22:16:11 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 20 runs
+2023-01-28 22:16:24 INFO  TimeLogger - Raw time per run (mSec):  608.66
+2023-01-28 22:16:25 INFO  TimeLogger - Normalized time per run (n^3):  .61
+2023-01-28 22:16:25 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 10 runs
+2023-01-28 22:17:23 INFO  TimeLogger - Raw time per run (mSec):  4846.11
+2023-01-28 22:17:23 INFO  TimeLogger - Normalized time per run (n^3):  .61
+2023-01-28 22:17:23 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 5 runs
+2023-01-28 22:28:13 INFO  TimeLogger - Raw time per run (mSec):  39724.39
+2023-01-28 22:28:13 INFO  TimeLogger - Normalized time per run (n^3):  .62
+2023-01-28 22:28:13 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 3 runs
+2023-01-28 22:54:46 INFO  TimeLogger - Raw time per run (mSec):  314720.40
+2023-01-28 22:54:46 INFO  TimeLogger - Normalized time per run (n^3):  .61
+2023-01-28 22:54:46 INFO  Benchmark_Timer - Begin run: ThreeSumCubic with 2 runs
+2023-01-28 23:37:44 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 100 runs
+2023-01-28 23:37:44 INFO  TimeLogger - Raw time per run (mSec):  .04
+2023-01-28 23:37:44 INFO  TimeLogger - Normalized time per run (n^2):  .60
+2023-01-28 23:37:44 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 50 runs
+2023-01-28 23:37:44 INFO  TimeLogger - Raw time per run (mSec):  .04
+2023-01-28 23:37:44 INFO  TimeLogger - Normalized time per run (n^2):  .18
+2023-01-28 23:37:44 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 20 runs
+2023-01-28 23:37:44 INFO  TimeLogger - Raw time per run (mSec):  .19
+2023-01-28 23:37:44 INFO  TimeLogger - Normalized time per run (n^2):  .19
+2023-01-28 23:37:44 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 10 runs
+2023-01-28 23:37:44 INFO  TimeLogger - Raw time per run (mSec):  .76
+2023-01-28 23:37:44 INFO  TimeLogger - Normalized time per run (n^2):  .19
+2023-01-28 23:37:44 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 5 runs
+2023-01-28 23:37:44 INFO  TimeLogger - Raw time per run (mSec):  3.21
+2023-01-28 23:37:44 INFO  TimeLogger - Normalized time per run (n^2):  .20
+2023-01-28 23:37:44 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 3 runs
+2023-01-28 23:37:44 INFO  TimeLogger - Raw time per run (mSec):  16.33
+2023-01-28 23:37:44 INFO  TimeLogger - Normalized time per run (n^2):  .26
+2023-01-28 23:37:44 INFO  Benchmark_Timer - Begin run: ThreeSumQuadrithmicWithCalipers with 2 runs
+2023-01-28 23:37:44 INFO  TimeLogger - Raw time per run (mSec):  25.40
+2023-01-28 23:37:44 INFO  TimeLogger - Normalized time per run (n^2):  .10
+2023-02-03 14:20:41 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 00:50:46 INFO  SortBenchmark - SortBenchmark.main: null with word counts: []
+2023-02-04 00:50:46 WARN  SortBenchmark - No word counts specified on the command line
+2023-02-04 00:50:46 INFO  Benchmark_Timer - Begin run: intArraysorter with 100 runs
+2023-02-04 00:50:47 INFO  TimeLogger - Raw time per run (mSec):  9.25
+2023-02-04 00:50:47 INFO  TimeLogger - Normalized time per run (n log n):  1.02
+2023-02-04 00:50:47 INFO  Benchmark_Timer - Begin run: integerArraysorter with 100 runs
+2023-02-04 00:50:51 INFO  TimeLogger - Raw time per run (mSec):  29.25
+2023-02-04 00:50:51 INFO  TimeLogger - Normalized time per run (n log n):  3.21
+2023-02-04 00:50:51 INFO  SortBenchmark - Beginning String sorts
+2023-02-04 00:50:51 INFO  SortBenchmark - Beginning LocalDateTime sorts
+2023-02-04 03:01:57 INFO  Benchmark_Timer - Begin run: Sorting with Insertion Sort method for Reverse Array with length: 8000 with 100 runs
+2023-02-04 03:01:58 INFO  Benchmark_Timer - Begin run: Sorting with Insertion Sort method for Reverse Array with length: 16000 with 100 runs
+2023-02-04 03:02:00 INFO  Benchmark_Timer - Begin run: Sorting with Insertion Sort method for Reverse Array with length: 32000 with 100 runs
+2023-02-04 03:02:13 INFO  Benchmark_Timer - Begin run: Sorting with Insertion Sort method for Reverse Array with length: 64000 with 100 runs
+2023-02-04 03:03:05 INFO  Benchmark_Timer - Begin run: Sorting with Insertion Sort method for Reverse Array with length: 128000 with 100 runs
+2023-02-04 15:55:02 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 16:08:31 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 16:52:23 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2023-02-04 17:18:12 INFO  Benchmark_Timer - Begin run: Sorting with Insertion Sort method for Reverse Array with length: 8000 with 100 runs
+2023-02-04 17:18:12 INFO  Benchmark_Timer - Begin run: Sorting with Insertion Sort method for Reverse Array with length: 16000 with 100 runs
+2023-02-04 17:18:14 INFO  Benchmark_Timer - Begin run: Sorting with Insertion Sort method for Reverse Array with length: 32000 with 100 runs
+2023-02-04 17:18:20 INFO  Benchmark_Timer - Begin run: Sorting with Insertion Sort method for Reverse Array with length: 64000 with 100 runs
+2023-02-04 17:18:47 INFO  Benchmark_Timer - Begin run: Sorting with Insertion Sort method for Reverse Array with length: 128000 with 100 runs
+2023-02-04 18:08:36 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:08:36 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:08:36 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:08:36 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:08:36 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:08:36 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:08:36 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:08:36 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:08:36 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:08:36 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:08:36 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:08:36 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:08:36 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:08:36 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:08:36 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:08:36 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:08:36 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:08:36 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:08:36 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:08:37 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:08:37 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:08:37 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:08:37 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:08:37 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:08:37 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:08:38 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:08:38 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:08:40 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:08:40 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:08:44 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:08:44 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:08:50 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:41:15 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:41:15 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:41:15 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:41:15 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:41:16 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:41:16 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:41:16 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:41:16 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:41:16 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:41:16 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:41:16 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:41:16 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:41:16 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:41:16 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:41:16 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:41:16 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:41:16 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:41:16 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:41:16 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:41:16 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:41:16 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:41:16 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:41:16 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:41:17 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:42:20 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:42:20 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:42:20 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:42:20 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:42:20 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:42:20 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:42:20 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:42:20 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:42:20 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:42:20 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:42:20 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:42:20 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:42:20 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:42:20 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:42:20 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:42:20 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:42:20 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:42:20 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:42:20 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:42:20 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:42:20 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:42:20 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:42:20 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:42:20 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:42:35 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:42:35 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:42:35 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:42:35 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:42:35 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:42:35 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:42:35 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:42:35 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:42:35 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:42:35 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:42:35 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:42:35 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:42:35 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:42:35 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:42:35 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:42:35 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:42:35 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:42:35 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:42:35 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:42:35 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:42:35 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:42:35 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:42:35 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:42:35 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:42:42 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:42:42 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:42:42 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:42:42 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:42:42 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:42:42 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:42:42 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:42:42 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:42:42 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:42:42 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:42:42 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:42:42 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:42:42 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:42:42 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:42:42 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:42:42 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:42:42 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:42:42 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:42:42 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:42:42 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:42:42 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:42:42 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:42:42 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:42:43 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:42:55 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:42:55 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:42:55 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:42:55 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:42:55 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:42:55 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:42:55 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:42:55 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:42:55 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:42:55 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:42:55 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:42:55 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:42:55 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:42:55 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:42:55 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:42:55 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:42:55 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:42:55 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:42:55 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:42:55 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:42:55 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:42:55 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:42:55 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:42:56 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:43:07 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:43:08 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:43:08 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:43:08 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:43:08 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:43:08 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:43:08 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:43:08 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:43:08 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:43:08 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:43:08 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:43:08 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:43:08 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:43:08 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:43:08 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:43:08 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:43:08 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:43:08 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:43:08 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:43:08 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 18:43:08 INFO  Benchmark_Timer - Begin run: randomSort with 10 runs
+2023-02-04 18:43:08 INFO  Benchmark_Timer - Begin run: arrangedSort with 10 runs
+2023-02-04 18:43:08 INFO  Benchmark_Timer - Begin run: reverseSort with 10 runs
+2023-02-04 18:43:08 INFO  Benchmark_Timer - Begin run: partialSort with 10 runs
+2023-02-04 19:37:17 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:37:17 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:37:17 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:37:17 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:37:17 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:37:17 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:37:17 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:37:17 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:37:17 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:37:17 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:37:17 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:37:17 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:37:17 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:37:17 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:37:17 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:37:17 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:37:17 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:37:17 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:37:17 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:37:18 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:37:18 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:37:18 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:37:18 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:37:18 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:39:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:39:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:39:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:39:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:39:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:39:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:39:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:39:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:39:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:39:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:39:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:39:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:39:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:39:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:39:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:39:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:39:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:39:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:39:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:39:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:39:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:39:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:39:54 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:39:54 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:40:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:40:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:40:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:40:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:40:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:40:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:40:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:40:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:40:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:40:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:40:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:40:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:40:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:40:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:40:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:40:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:40:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:40:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:40:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:40:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:40:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:40:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:40:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:40:54 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:42:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:42:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:42:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:42:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:42:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:42:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:42:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:42:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:42:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:42:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:42:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:42:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:42:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:42:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:42:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:42:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:42:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:42:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:42:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:42:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:42:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:42:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:42:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:42:05 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:42:22 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:42:22 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:42:22 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:42:22 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:42:22 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:42:22 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:42:22 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:42:22 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:42:22 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:42:22 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:42:22 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:42:22 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:42:22 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:42:22 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:42:22 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:42:22 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:42:22 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:42:22 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:42:22 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:42:22 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:42:23 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:42:23 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:42:23 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:42:23 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:42:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:42:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:42:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:42:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:42:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:42:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:42:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:42:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:42:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:42:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:42:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:42:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:42:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:42:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:42:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:42:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:42:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:42:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:42:53 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:42:54 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:42:54 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:42:54 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:42:54 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:42:54 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:43:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:43:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:43:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:43:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:43:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:43:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:43:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:43:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:43:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:43:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:43:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:43:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:43:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:43:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:43:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:43:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:43:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:43:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:43:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:43:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:43:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:43:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:43:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:43:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:43:14 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:43:14 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:43:14 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:43:14 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:43:14 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:43:14 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:43:14 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:43:14 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:43:14 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:43:14 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:43:14 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:43:14 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:43:14 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:43:14 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:43:14 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:43:14 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:43:14 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:43:14 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:43:14 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:43:14 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:43:14 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:43:14 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:43:15 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:43:15 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:43:33 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:43:33 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:43:33 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:43:33 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:43:33 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:43:33 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:43:33 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:43:33 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:43:33 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:43:33 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:43:33 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:43:34 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:43:34 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:43:34 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:43:34 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:43:34 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:43:34 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:43:34 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:43:34 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:43:34 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:43:34 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:43:34 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:43:34 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:43:35 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:45:11 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:45:11 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:45:11 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:45:11 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:45:11 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:45:11 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:45:11 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:45:11 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:45:11 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:45:11 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:45:11 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:45:12 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:45:12 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:45:12 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:45:12 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:45:12 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:45:12 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:45:12 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:45:12 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:45:12 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:45:12 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:45:12 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:45:12 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:45:13 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:45:28 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:45:28 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:45:28 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:45:28 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:45:28 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:45:28 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:45:28 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:45:28 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:45:28 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:45:28 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:45:28 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:45:28 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:45:28 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:45:28 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:45:28 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:45:29 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:45:29 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:45:29 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:45:29 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:45:29 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:45:29 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:45:29 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:45:29 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:45:30 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:47:01 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:47:02 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:47:02 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:47:02 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:47:02 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:47:02 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:47:02 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:47:02 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:47:02 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:47:02 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:47:02 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:47:02 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:47:02 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:47:02 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:47:02 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:47:02 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:47:02 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:47:02 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:47:02 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:47:02 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:47:02 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:47:02 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:47:02 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:47:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:48:27 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:48:27 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:48:27 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:48:27 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:48:27 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:48:27 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:48:27 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:48:27 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:48:27 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:48:27 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:48:27 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:48:27 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:48:27 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:48:27 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:48:27 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:48:27 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:48:27 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:48:27 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:48:27 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:48:27 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:48:27 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:48:27 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:48:27 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:48:28 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:54:50 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:54:50 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:54:50 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:54:50 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:54:50 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:54:50 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:54:50 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:54:50 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:54:50 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:54:50 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:54:50 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:54:50 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:54:50 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:54:50 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:54:50 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:54:50 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:54:50 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:54:50 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:54:51 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:54:51 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:54:51 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:54:51 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:54:51 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:54:51 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:59:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:59:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:59:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:59:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:59:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:59:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:59:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:59:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:59:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:59:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:59:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:59:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:59:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:59:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:59:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:59:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:59:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:59:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:59:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:59:05 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 19:59:05 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 19:59:05 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 19:59:05 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 19:59:06 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:00:18 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:00:18 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:00:18 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:00:18 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:00:18 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:00:18 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:00:18 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:00:18 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:00:18 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:00:18 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:00:18 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:00:18 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:00:18 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:00:18 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:00:18 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:00:18 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:00:18 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:00:18 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:00:18 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:00:18 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:00:18 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:00:18 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:00:18 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:00:19 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:00:32 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:00:32 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:00:32 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:00:32 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:00:32 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:00:32 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:00:32 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:00:32 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:00:32 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:00:32 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:00:32 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:00:32 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:00:32 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:00:32 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:00:32 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:00:32 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:00:32 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:00:32 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:00:32 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:00:33 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:00:33 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:00:33 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:00:33 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:00:33 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:03:35 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:03:35 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:03:35 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:03:35 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:03:35 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:03:35 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:03:35 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:03:35 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:03:35 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:03:35 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:03:35 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:03:35 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:03:35 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:03:35 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:03:35 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:03:35 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:03:35 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:03:35 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:03:35 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:03:36 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:03:36 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:03:36 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:03:36 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:03:37 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:03:56 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:03:56 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:03:56 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:03:56 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:03:56 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:03:56 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:03:56 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:03:56 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:03:56 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:03:56 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:03:56 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:03:56 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:03:56 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:03:56 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:03:56 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:03:56 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:03:56 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:03:56 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:03:56 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:03:56 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:03:56 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:03:56 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:03:56 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:03:57 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:11:10 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:11:10 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:11:10 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:11:10 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:11:10 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:11:10 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:11:10 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:11:10 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:11:10 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:11:10 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:11:10 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:11:10 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:11:10 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:11:10 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:11:10 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:11:10 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:16:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:16:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:16:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:16:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:16:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:16:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:16:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:16:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:16:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:16:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:16:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:16:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:16:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:16:03 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:16:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:16:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:16:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:16:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:16:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:16:04 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:17:30 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:17:30 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:17:30 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:17:30 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:17:30 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:17:30 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:17:30 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:17:30 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:17:30 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:17:30 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:17:30 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:17:30 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:17:30 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:17:30 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:17:30 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:17:30 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
+2023-02-04 20:17:30 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Randomly Ordered Array  with 10 runs
+2023-02-04 20:17:30 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Ordered Array  with 10 runs
+2023-02-04 20:17:30 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Reversely Ordered Array with 10 runs
+2023-02-04 20:17:31 INFO  Benchmark_Timer - Begin run: Running Insertion sort on :Partially Ordered Array with 10 runs
