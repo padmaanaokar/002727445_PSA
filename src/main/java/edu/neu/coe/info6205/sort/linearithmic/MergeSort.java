@@ -59,6 +59,8 @@ public class MergeSort<X extends Comparable<X>> extends SortWithHelper<X> {
             return;
         }
 
+        System.out.println("branch testing");
+
         // FIXME : implement merge sort with insurance and no-copy optimizations
         // END 
     }
